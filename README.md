@@ -1,5 +1,5 @@
 # BigData
-Introduction au Big Data  et ces application - ENSAK
+Introduction au Big Data  et ces applications - ENSAK
 
 # Auteurs
 CHAHOUD Marwane - ELGAMRANI Youssef - ELFAKIR Mehdi.
